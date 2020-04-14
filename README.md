@@ -1,0 +1,2 @@
+# GencC
+Repositorio criado 
