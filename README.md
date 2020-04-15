@@ -1,2 +1,2 @@
-# GencC
+# GenC
 Repositorio criado 
